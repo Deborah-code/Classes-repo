@@ -1,4 +1,4 @@
-from classes import About_me
+
 class BMI:
 	def __init__(self, name, weight, height):
 		self.weight = weight
